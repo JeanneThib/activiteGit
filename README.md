@@ -1,1 +1,1 @@
-# activiteGit
+# activite-git
