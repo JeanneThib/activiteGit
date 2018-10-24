@@ -2,13 +2,19 @@
     border: solid 2px black;
     width: 22%;
 }
-/* 
+
 
 .align{
     display: flex;
     justify-content: center;
-} */
+}
 
+.titre{
+    color: aquamarine;
+    font-size: 50px;
+    background-color: red;
+    
+}
 h1 {
     font-size: 3rem;
 }
